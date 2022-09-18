@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_bottom">8dp</dimen>
+    <dimen name="margin_top">8dp</dimen>
+    <dimen name="margin_start">8dp</dimen>
+    <dimen name="margin_end">8dp</dimen>
+    <dimen name="size_image_product">100dp</dimen>
+    <dimen name="padding_parent">8dp</dimen>
+</resources>
